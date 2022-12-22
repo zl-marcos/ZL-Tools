@@ -1,5 +1,5 @@
 # ZL-Utilidades
-Un pack de scripts para FiveM que tiene varias cosas dentros (Agacharse, cruzar los brazos, anti culatazos, etc.)
+Very useful pack of scripts.
 
-# ZL-Shop™
+# TZ-Scripts™
 https://discord.gg/VAtB2J9HG3
